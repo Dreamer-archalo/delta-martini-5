@@ -4,7 +4,7 @@
  */
 (() => {
   'use strict';
-  const siteToken = '';
+  const siteToken = '9412be5d019244b3bdf833e4bff8a592';
 
   if (!siteToken.trim()) return;
 
